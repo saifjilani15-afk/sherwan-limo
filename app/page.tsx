@@ -5,7 +5,6 @@ import { QuoteForm } from "@/components/quote-form";
 import { ContactForm } from "@/components/contact-form";
 import { FlightStatus } from "@/components/flight-status";
 import { FloatingCTA } from "@/components/floating-cta";
-import { ChatBot } from "@/components/chat-bot";
 import { ServiceMap } from "@/components/service-map";
 import { Card, CardContent } from "@/components/ui/card";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -561,7 +560,6 @@ export default function Home() {
 
       {/* ── FLOATING CONVERSION & CONCIERGE WIDGETS ── */}
       <FloatingCTA />
-      <ChatBot />
     </>
   );
 }

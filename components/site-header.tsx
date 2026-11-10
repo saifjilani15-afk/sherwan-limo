@@ -17,7 +17,7 @@ export function SiteHeader() {
             👑
           </div>
           <span className="flex flex-col">
-            <span className="font-display text-3xl font-bold tracking-tight text-white transition-colors group-hover:text-primary sm:text-4xl">
+            <span className="font-display text-2xl font-bold tracking-tight text-white transition-colors group-hover:text-primary sm:text-3xl">
               Classicontariolimo
             </span>
             <span className="flex items-center gap-1.5 text-[10px] font-semibold uppercase tracking-[0.2em] text-primary/80">
@@ -43,7 +43,7 @@ export function SiteHeader() {
             href="#quote"
             className="cta-primary inline-flex h-10 items-center justify-center rounded-lg px-4 text-xs font-bold sm:px-5 sm:text-sm"
           >
-            Name Your Price
+            Book Now
           </a>
           <a
             href={TEL}
