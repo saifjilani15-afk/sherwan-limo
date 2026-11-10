@@ -1,7 +1,7 @@
 export const PHONE = "+1 (416) 824-7400";
 export const TEL = "tel:+14168247400";
 export const WA = "https://wa.me/14168247400";
-export const EMAIL = "classictontariolimos@gmail.com";
+export const EMAIL = "classicontariolimo@gmail.com";
 export const CONTACT_NAME = "Classicontariolimo";
 export const img = (f: string) =>
   f.startsWith("http://") || f.startsWith("https://") || f.startsWith("/")
